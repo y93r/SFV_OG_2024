@@ -1,6 +1,6 @@
 # SFV_OG_2024
 - Análise das [convocadas](https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/teams/women/6619/players/) da seleção feminina de vôlei para os jogos olímpicos de Paris 2024.
-- Veja o artigo detalhado aqui: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7224496562339512321/)
+- Veja o artigo detalhado [aqui](https://www.linkedin.com/feed/update/urn:li:activity:7224496562339512321/).
 
 ## TECNOLOGIAS USADAS:
 - Jupyter Notebook: 5.3.0
